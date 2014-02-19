@@ -1,0 +1,4 @@
+Here you'll find some of Bootstrap 3's HTML components converted into HAML.  
+In order for these to be useful to you, you'll have to be using Bootstrap 3,
+available at http://getbootstrap.com, and HAML, which is available at
+http://haml.info.
